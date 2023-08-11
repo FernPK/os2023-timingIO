@@ -1,0 +1,3 @@
+Time taken to read from file: 0.000136 s
+Time taken to print to console: 0.011122 s
+Time taken if didn't print to console: 0.000254 s
